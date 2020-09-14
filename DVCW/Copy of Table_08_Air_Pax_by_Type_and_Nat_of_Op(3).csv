@@ -1,0 +1,11 @@
+rundate,reporting_period,reporting_airport_group_name,reporting_airport_name,total_pax,pax_terminal_scheduled_UK,pax_transit_scheduled_UK,pax_terminal_scheduled_foreign_EU,pax_transit_scheduled_foreign_EU,pax_terminal_scheduled_foreign_non_EU,pax_transit_scheduled_foreign_non_EU,pax_terminal_charter_UK,pax_transit_charter_UK,pax_terminal_charter_foreign_EU,pax_transit_charter_foreign_EU,pax_terminal_charter_foreign_non_EU,pax_transit_charter_foreign_non_EU
+12/03/2019 14:40,12/04/2019 14:40,Other UK Airports,BELFAST INTERNATIONAL,405935,317825,0,78763,0,0,0,9052,0,295,0,0,0
+12/03/2019 14:40,201901,Other UK Airports,BIRMINGHAM,781258,263931,0,336264,0,121819,51,56985,0,2208,0,0,0
+12/03/2019 14:40,201901,Other UK Airports,BRISTOL,520854,328895,427,150611,0,0,0,35378,0,5543,0,0,0
+12/03/2019 14:40,201901,Other UK Airports,EDINBURGH,920098,509602,391,347991,0,47818,226,12833,0,1237,0,0,0
+12/03/2019 14:40,201901,London Area Airports,GATWICK,2953515,1982446,0,531007,0,276756,0,155688,0,7425,0,193,0
+12/03/2019 14:40,201901,Other UK Airports,GLASGOW,526761,382025,512,85209,0,44823,235,13957,0,0,0,0,0
+12/03/2019 14:40,201901,London Area Airports,HEATHROW,5928655,2995384,235,847634,602,2083058,593,662,0,487,0,0,0
+12/03/2019 14:40,201901,London Area Airports,LUTON,1156359,610775,0,534278,0,3131,0,6891,0,1284,0,0,0
+12/03/2019 14:40,201901,Other UK Airports,MANCHESTER,1784815,771325,0,572137,0,317952,1995,116944,0,3441,176,845,0
+12/03/2019 14:40,201901,London Area Airports,STANSTED,1930066,234498,0,1603440,0,75731,0,15746,0,651,0,0,0
